@@ -4,13 +4,14 @@
   font-size: 50%;
 }
 
-table,th,td {
+table,
+th,
+td {
   border: 1px solid plum;
   width: 50%;
 }
 
 #title {
-  color: cornflowerblue;
-  font-size: 150%;
+  color: cornflowerblue; font-size: 150%;
   font-family: cursive;
 }
